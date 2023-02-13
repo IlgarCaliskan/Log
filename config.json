@@ -1,0 +1,19 @@
+{
+    "TOKEN": "Mtoken",
+    "MAİN_GUİLD_İD": "ana sunucu id",
+    "channel_settings": {
+        "chat": {
+            "chat_channel": "sohbet kanalı",
+            "log_channel": "sohbet log"
+        },
+        "deleted": {
+            "deleted_channel": "silinen log"
+        },
+        "image": {
+            "image_log": "fotoğraf log"
+        },
+        "audit": {
+            "audit_log": "denetim kaydı log"
+        }
+    }
+}
